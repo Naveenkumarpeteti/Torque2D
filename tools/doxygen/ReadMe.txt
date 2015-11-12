@@ -6,6 +6,8 @@ Use the manual (A) or automated (B) method.  Note that the automated method need
 
 ***************
 
+manual
+
 A) Manual
 
 This should work for PC or Mac (or anywhere doxygen and git/svn run)
