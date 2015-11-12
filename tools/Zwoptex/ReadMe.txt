@@ -18,4 +18,5 @@ This read me contains instructions for adding a new template to Zwoptex, allowin
 
 And that's it! You can now publish ImageAssets directly from Zoptex
 
+ hi
 readme
